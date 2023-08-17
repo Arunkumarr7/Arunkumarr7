@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Arun kumar R and I'm a from India</h3>
+<h3 align="left">My name is Arun kumar R and I'm from India</h3>
 
 ###
 
