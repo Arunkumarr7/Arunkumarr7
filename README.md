@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ I'm learning coding and tools since 2019.<br>📚 I'm currently learning Spring Boot.<br>🎯 Goals: Reaching high in coding.<br>🎲 Fun fact: Conversion with code.</h4>
+<h4 align="left">✨ I'm learning coding and tools since 2019.<br>📚 I'm currently learning Spring Boot.<br>🎯 Goals: Reaching high in coding.<br>🎲 Fun fact: Conversation with code.</h4>
 
 ###
 
